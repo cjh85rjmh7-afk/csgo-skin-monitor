@@ -1,0 +1,24 @@
+{
+  "discord_webhook_env": "DISCORD_WEBHOOK",
+  "currency": "EUR",
+  "app_id": 730,
+  "discount_threshold": 0.20,
+  "skins": [
+    { "name": "AK-47 | Redline (Field-Tested)",        "market_hash_name": "AK-47 | Redline (Field-Tested)",        "max_price": 7.00,  "min_discount": 0.25 },
+    { "name": "AK-47 | Redline (Well-Worn)",           "market_hash_name": "AK-47 | Redline (Well-Worn)",           "max_price": 6.00,  "min_discount": 0.25 },
+    { "name": "AK-47 | Asiimov (Field-Tested)",        "market_hash_name": "AK-47 | Asiimov (Field-Tested)",        "max_price": 12.00, "min_discount": 0.22 },
+    { "name": "M4A1-S | Hyper Beast (Field-Tested)",   "market_hash_name": "M4A1-S | Hyper Beast (Field-Tested)",   "max_price": 10.00, "min_discount": 0.22 },
+    { "name": "M4A1-S | Hyper Beast (Well-Worn)",      "market_hash_name": "M4A1-S | Hyper Beast (Well-Worn)",      "max_price": 9.00,  "min_discount": 0.22 },
+
+    { "name": "AWP | Asiimov (Field-Tested)",          "market_hash_name": "AWP | Asiimov (Field-Tested)",          "max_price": 40.00, "min_discount": 0.20 },
+    { "name": "AWP | Asiimov (Well-Worn)",             "market_hash_name": "AWP | Asiimov (Well-Worn)",             "max_price": 35.00, "min_discount": 0.20 },
+    { "name": "AWP | Asiimov (Battle-Scarred)",        "market_hash_name": "AWP | Asiimov (Battle-Scarred)",        "max_price": 30.00, "min_discount": 0.20 },
+    { "name": "AWP | Wildfire (Field-Tested)",         "market_hash_name": "AWP | Wildfire (Field-Tested)",         "max_price": 45.00, "min_discount": 0.20 },
+
+    { "name": "Desert Eagle | Blaze (Factory New)",    "market_hash_name": "Desert Eagle | Blaze (Factory New)",    "max_price": 55.00, "min_discount": 0.18 },
+    { "name": "USP-S | Kill Confirmed (Field-Tested)", "market_hash_name": "USP-S | Kill Confirmed (Field-Tested)", "max_price": 30.00, "min_discount": 0.20 },
+    { "name": "Glock-18 | Fade (Factory New)",         "market_hash_name": "Glock-18 | Fade (Factory New)",         "max_price": 300.00, "min_discount": 0.18 },
+
+    { "name": "Flip Knife | Tiger Tooth (Factory New)", "market_hash_name": "★ Flip Knife | Tiger Tooth (Factory New)", "max_price": 400.00, "min_discount": 0.15 }
+  ]
+}
